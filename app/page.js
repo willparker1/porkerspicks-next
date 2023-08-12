@@ -7,6 +7,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Porkers Picks&nbsp;
+          We have landed! &nbsp;
           <code className={styles.code}>app/page.js</code>
         </p>
         <div>
